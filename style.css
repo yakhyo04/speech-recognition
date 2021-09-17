@@ -35,3 +35,10 @@ body {
           margin-bottom: 10px;
       }
   }
+
+  @media (max-width: 500px){
+      .mycontainer{
+          width: 40vw;
+          max-width: 40vw;
+      }
+  }
